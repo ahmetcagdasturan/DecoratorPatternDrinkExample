@@ -1,3 +1,3 @@
 # DecoratorPatternDrinkExample
 
-Bu örnek, decorator design pattern için temel konu anlatımı niteliğindedir.
+Bu örnek, decorator design pattern konusu için basit, temel konu anlatımı niteliğindedir.
